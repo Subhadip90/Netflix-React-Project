@@ -10,6 +10,7 @@ const App = () => {
       {Sdata.map((val) => {
         return (
           <Cards
+            key={val.id}
             imgsrc={val.imgsrc}
             sname={val.sname}
             link={val.link} />
