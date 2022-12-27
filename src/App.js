@@ -1,13 +1,11 @@
 import React from 'react'
-import Cards from './Components/Cards'
 import "./App.css";
-import Sdata from './Components/Sdata';
 import Netflix from './Components/Netflix';
 import Amazon from './Components/Amazon';
 
-const favSeries = "Netflix"
+const favSeries = "Amazon"
 const FavS = () => {
-  if (favSeries === "Netflix") {
+  if (favSeries === "Amazon") {
     return <Netflix />
   }
   else {
