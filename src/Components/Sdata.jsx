@@ -43,7 +43,7 @@ const Sdata = [
     id: 6,
     sname: "Space Force",
     imgsrc: "https://occ-0-4157-2186.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABZ5hoQboQj28YZmFqD6l8svq_iVGAu3WkDKLobvHHAB2hyvvD7LJIHZExGdnwVkBBbuPMJ7DVy6s6hoeQtFkM9hA89Rz02YZtbCUsJflf9MT-d-ovIkmhB7-S9QcAD7F3faV.jpg?r=fe2",
-    title: "A Netflix Original Series",
+    title: "An Amazon Original Series",
     link: "https://www.netflix.com/in/title/81021929"
   }
 ];
